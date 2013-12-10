@@ -1,0 +1,15 @@
+{
+    "name": "logentries/le_php",
+    "description": "Logentries",
+    "type": "library",
+    "keywords": [
+        "Logentries"
+    ],
+    "homepage": "http://logentries.com/",
+    "require": {
+        "php": ">=5.2.11"
+    },
+    "autoload": {
+            "files": ["LeLogger.php"]
+    }
+}
